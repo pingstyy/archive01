@@ -1,0 +1,76 @@
+nvim
+
+d to create a directory
+% to create a file
+
+Basic cursor movement commands:
+
+    h: Move left
+    j: Move down
+    k: Move up
+    l: Move right
+
+Entering insert mode:
+
+    i: Insert before cursor
+    a: Insert after cursor
+
+Saving and quitting:
+
+    :w: Write file
+    :wq: Write and quit file
+    :q!: Quit without saving file
+
+Moving by words:
+
+    w: Move forward one word
+    b: Move backward one word
+    W: Move forward one space
+    B: Move backward one space
+
+Going to line start/end:
+
+    0: Go to the beginning of the line
+Going to line start/end
+
+    $: Go to the end of the line
+
+Creating new lines
+
+    O: Insert a new line below the current line
+    o: Insert a new line above the current line
+
+Jumping to matching braces
+
+    %: Jump to the matching brace when the cursor is on a brace
+
+Jumping between paragraphs
+
+    {}: Jump to the next or previous paragraph
+
+Going to top/bottom of file
+
+    gg: Go to the beginning of the file
+    G: Go to the end of the file
+
+Visual mode
+
+    v: Enter visual mode to select characters
+    V: Enter block visual mode to select lines
+    <visual mode> + d: Delete the selected text
+    <visual mode> + y: Copy the selected text
+    <visual mode> + p: Paste the copied text
+
+Deleting without selection
+
+    d: Delete to the end of the line
+    dd: Delete the current line
+    D: Delete from the cursor to the end of the line
+    c: Delete the character under the cursor and enter insert mode
+    C: Delete from the cursor to the end of the line and enter insert mode
+
+va / vi
+around / something
+va(    for around parentheses
+vi
+ci"    change(deletes) inside quotes

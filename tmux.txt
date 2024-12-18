@@ -1,0 +1,26 @@
+command -v tmux
+ctr^B d
+tmux list-sessions/ls
+tmux attach/a
+tmux attach                          [most recent session]
+exit                                   to close session
+
+panes
+vertical   ^b + % 
+horizontal ^b + "
+move       ^b + arrrow keys
+
+windows
+tmux new-window
+^b + p/n
+^b + %
+^b , [name]
+tmux rename-window [name]
+
+tmux attach -t [name]
+^b + s         [session]
+tmux kill-session -t 2
+
+in nvim
+d to create a directory
+% to create a file

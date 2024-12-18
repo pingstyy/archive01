@@ -1,0 +1,43 @@
+## Parts of Chess Playing:
+
+**1. Foundational Elements:**
+
+* **Basic Rules:** Understanding the movement and capture rules for each piece.
+* **Notation:** Knowing how to record and analyze games using algebraic notation.
+* **Check and Checkmate:** Recognizing when the king is threatened and how to deliver checkmate.
+
+**2. Core Skills:**
+
+* **Assessing:**
+    * **Board Evaluation:** Analyzing material, piece activity, pawn structure, king safety, and potential threats to understand who has an advantage.
+    * **Opponent Reading:** Predicting your opponent's plans based on their previous moves and the position.
+    * **Candidate Moves:** Identifying promising options and their consequences before committing.
+* **Tactics:**
+    * **Exploiting Weaknesses:** Finding and utilizing opportunities to win material, gain positional advantage, or force checkmate.
+    * **Calculation:** Thinking ahead several moves to see the potential outcomes of tactical sequences.
+    * **Pattern Recognition:** Identifying common tactical motifs like forks, pins, skewers, and discovered attacks.
+* **Strategy:**
+    * **Long-Term Goals:** Developing a plan for the game based on the position and your playing style.
+    * **Piece Coordination:** Working together different pieces to maximize their potential and control key squares.
+    * **Strategic Principles:** Applying general principles like king safety, pawn structure, activity, and space to guide your decisions.
+
+**3. Game Stages:**
+
+* **Opening:**
+    * **Opening Principles:** Developing pieces quickly, controlling the center, and aiming for king safety.
+    * **Opening Repertoire:** Learning and practicing specific opening variations suited to your style.
+    * **Transposition:** Understanding how different openings can lead to similar middlegame positions.
+* **Middlegame:**
+    * **Fighting for Advantage:** Implementing your strategic plan, exploiting tactical opportunities, and defending against threats.
+    * **Piece Maneuvering:** Moving your pieces to strategically important squares and supporting each other.
+    * **Pawn Play:** Understanding how pawns influence the structure of the board and create weaknesses.
+* **Endgame:**
+    * **King Safety:** Protecting your king and limiting your opponent's king.
+    * **Basic Endgame Principles:** Opposition, triangulation, king and pawn endgames, rook and pawn endgames, etc.
+    * **Calculating Checkmates:** Recognizing and planning for checkmate patterns in specific endgame scenarios.
+
+**4. Additional Aspects:**
+
+* **Psychology:** Managing your emotions, focusing under pressure, and making sound decisions throughout the game.
+* **Studying:** Analyzing master games, solving chess puzzles, and practicing with other players.
+* **Competitive Play:** Participating in tournaments and matches to test your skills and improve your game.
