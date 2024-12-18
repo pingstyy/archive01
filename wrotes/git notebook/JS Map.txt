@@ -1,0 +1,31 @@
+// Creating an empty Map
+const myMap = new Map();
+
+// Creating a Map with initial key-value pairs
+const myMapWithInitialData = new Map([
+  ['key1', 'value1'],
+  ['key2', 'value2']
+]);
+
+
+myMap.set('newKey', 'newValue');
+
+const value = myMap.get('key');
+
+const exists = myMap.has('key'); // Returns true or false
+
+myMap.delete('key');
+
+const size = myMap.size;
+
+// Using for...of loop
+for (const [key, value] of myMap) {
+  console.log(key, value);
+}
+
+// Using forEach() method
+myMap.forEach((value, key) => {
+  console.log(key, value);
+});
+
+myMap.clear();   // Clear all KV pairs
