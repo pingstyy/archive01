@@ -1,0 +1,15 @@
+# Set dwn loc 
+export PKGDEST=/path/directory
+
+# For download in PKGDEST 
+pacman -Sw package_name
+
+# for moving packages
+mv /home/user/arch_packages/*.pkg.tar.zst /home/user/arch_packages/
+
+
+# For local install
+pacman -U path/to/file.xy.zst
+
+# Other PKGDEST for target 
+export PKGDEST=/home/user/arch_packages/
